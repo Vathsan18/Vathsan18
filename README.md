@@ -63,8 +63,6 @@ An end-to-end NLP system that localizes educational content — PDFs, documents,
 - Speech and text processing using Facebook voice models and Hugging Face Transformers
 - Backend services built with Flask to manage model integration and content workflows
 
-> *Replace the link above with the actual repository URL: `[YOUR_PROJECT_REPO_URL]`*
-
 ---
 
 ### 💼 Experience
