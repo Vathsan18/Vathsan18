@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Sri Vathsan 👋</h1>
+<h1 align="center">Hi there, I'm Sri Vathsan</h1>
 <h3 align="center">Aspiring Data Analyst | AI & Data Science Undergraduate</h3>
 
 <p align="center">
@@ -92,18 +92,6 @@ An end-to-end NLP system that localizes educational content — PDFs, documents,
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vathsan18&show_icons=true&theme=default&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vathsan18&layout=compact&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vathsan18&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
 
 ### 🏆 Achievements & Certifications
 
